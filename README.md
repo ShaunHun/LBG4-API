@@ -1,6 +1,6 @@
 # REST API starter
 
-This application is the start point for Sprint 1 of the Lloyds Bank Group Modern Engineering Bootcamp Project Specification.
+This application is the start point for Sprint 21 of the Lloyds Bank Group Modern Engineering Bootcamp Project Specification.
 
 ## Installation
 
@@ -19,7 +19,7 @@ $ npm start
 API Listening on http://localhost:8080
 ~~~
 
-## Stopping the application
+## Stopping the applicationy
 
 In order to stop the application from the git bash terminal that is running the server press ``CTRL`` + ``C``
 
